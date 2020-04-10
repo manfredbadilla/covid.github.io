@@ -51,5 +51,59 @@
         "cases": "1"
       }
     ]
+  }, 
+{
+    "date": "10/04/2020",
+    "newCases" : "19",
+    "confirmed": "558",
+    "discard": "5840",
+    "deaths": "3",
+    "recovered": "42",
+    "inHospital": "20",
+    "inHospitalIcu": "13",
+    "inHospitalIcuAgeRangeMin": "45",
+    "inHospitalIcuAgeRangeMax": "85",
+    "inHospitalNotIcu": "7",
+    "ageRangeMin": "2",
+    "ageRangeMax": "87",
+    "female": "0",
+    "male": "0",
+    "foreigners": "0",
+    "citizensOrResidents": "0",
+    "seniors": "30",
+    "adults": "0",
+    "childrens": "20",
+    "mspImage": "",
+    "geo1": [
+      {
+        "geoDescription": "San José",
+        "cases": "0"
+      },
+      {
+        "geoDescription": "Alajuela",
+        "cases": "0"
+      },
+      {
+        "geoDescription": "Heredia",
+        "cases": "0"
+      },
+      {
+        "geoDescription": "Cartago",
+        "cases": "0"
+      },
+      {
+        "geoDescription": "Puntarenas",
+        "cases": "0"
+      },
+      {
+        "geoDescription": "Guanacaste",
+        "cases": "0"
+      },
+      {
+        "geoDescription": "Limón",
+        "cases": "1"
+      }
+    ]
   }
+
 ]
