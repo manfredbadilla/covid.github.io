@@ -64,40 +64,40 @@
     "inHospitalIcuAgeRangeMin": "35",
     "inHospitalIcuAgeRangeMax": "85",
     "inHospitalNotIcu": "7",
-    "ageRangeMin": "2",
+    "ageRangeMin": "1",
     "ageRangeMax": "87",
     "female": "269",
     "male": "289",
     "foreigners": "34",
     "citizensOrResidents": "524",
     "seniors": "30",
-    "adults": "0",
+    "adults": "508",
     "childrens": "20",
-    "mspImage": "",
+    "mspImage": "https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/92843852_10163459312145137_3945243029803106304_o.jpg?_nc_cat=111&_nc_sid=8024bb&efg=eyJpIjoidCJ9&_nc_ohc=MwKECIDedYoAX-h5vDh&_nc_ht=scontent.fsyq1-1.fna&_nc_tp=14&oh=6b5c1c3fcb03c248f4bc2b60c450a2d8&oe=5EB59613",
     "geo1": [
       {
         "geoDescription": "San José",
-        "cases": "0"
+        "cases": "267"
       },
       {
         "geoDescription": "Alajuela",
-        "cases": "0"
+        "cases": "159"
       },
       {
         "geoDescription": "Heredia",
-        "cases": "0"
+        "cases": "59"
       },
       {
         "geoDescription": "Cartago",
-        "cases": "0"
+        "cases": "39"
       },
       {
         "geoDescription": "Puntarenas",
-        "cases": "0"
+        "cases": "18"
       },
       {
         "geoDescription": "Guanacaste",
-        "cases": "0"
+        "cases": "13"
       },
       {
         "geoDescription": "Limón",
