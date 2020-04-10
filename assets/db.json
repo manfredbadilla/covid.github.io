@@ -1,0 +1,106 @@
+[
+  {
+    "date": "05/05/2020",
+    "newCases" : "23",
+    "confirmed": "502",
+    "discard": "4008",
+    "deaths": "3",
+    "recovered": "24",
+    "inHospital": "24",
+    "inHospitalIcu": "18",
+    "inHospitalIcuAgeRangeMin": "35",
+    "inHospitalIcuAgeRangeMax": "87",
+    "inHospitalNotIcu": "6",
+    "ageRangeMin": "1",
+    "ageRangeMax": "87",
+    "female": "25",
+    "male": "1055",
+    "foreigners": "34",
+    "citizensOrResidents": "355",
+    "seniors": "355",
+    "adults": "20",
+    "childrens": "5",
+    "geo1": [
+      {
+        "geoDescription": "San José",
+        "cases": "25"
+      },
+      {
+        "geoDescription": "Alajuela",
+        "cases": "89"
+      },
+      {
+        "geoDescription": "Heredia",
+        "cases": "6"
+      },
+      {
+        "geoDescription": "Cartago",
+        "cases": "9"
+      },
+      {
+        "geoDescription": "Puntarenas",
+        "cases": "9"
+      },
+      {
+        "geoDescription": "Guanacaste",
+        "cases": "7"
+      },
+      {
+        "geoDescription": "Limón",
+        "cases": "4"
+      }
+    ]
+  },
+  {
+    "date": "09/04/2020",
+    "newCases" : "23",
+    "confirmed": "600",
+    "discard": "4008",
+    "deaths": "3",
+    "recovered": "24",
+    "inHospital": "24",
+    "inHospitalIcu": "18",
+    "inHospitalIcuAgeRangeMin": "35",
+    "inHospitalIcuAgeRangeMax": "87",
+    "inHospitalNotIcu": "6",
+    "ageRangeMin": "1",
+    "ageRangeMax": "87",
+    "female": "25",
+    "male": "1055",
+    "foreigners": "34",
+    "citizensOrResidents": "355",
+    "seniors": "355",
+    "adults": "20",
+    "childrens": "5",
+    "geo1": [
+      {
+        "geoDescription": "San José",
+        "cases": "25"
+      },
+      {
+        "geoDescription": "Alajuela",
+        "cases": "3"
+      },
+      {
+        "geoDescription": "Heredia",
+        "cases": "5"
+      },
+      {
+        "geoDescription": "Cartago",
+        "cases": "7"
+      },
+      {
+        "geoDescription": "Puntarenas",
+        "cases": "295"
+      },
+      {
+        "geoDescription": "Guanacaste",
+        "cases": "5"
+      },
+      {
+        "geoDescription": "Limón",
+        "cases": "5"
+      }
+    ]
+  }
+]
