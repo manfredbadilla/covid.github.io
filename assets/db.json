@@ -316,5 +316,58 @@
         "cases": "6"
       }
     ]
+  },
+  {
+    "date": "15/04/2020",
+    "newCases" : "8",
+    "confirmed": "626",
+    "discard": "6511",
+    "deaths": "4",
+    "recovered": "667",
+    "inHospital": "16",
+    "inHospitalIcu": "11",
+    "inHospitalIcuAgeRangeMin": "35",
+    "inHospitalIcuAgeRangeMax": "75",
+    "inHospitalNotIcu": "5",
+    "ageRangeMin": "1",
+    "ageRangeMax": "87",
+    "female": "302",
+    "male": "324",
+    "foreigners": "43",
+    "citizensOrResidents": "583",
+    "seniors": "31",
+    "adults": "570",
+    "childrens": "25",
+    "mspImage": "https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/93414228_10163493618095137_1397531033259212800_o.jpg?_nc_cat=107&_nc_sid=110474&_nc_ohc=aeFWrIRgO5MAX_pxCUU&_nc_ht=scontent.fsyq1-1.fna&oh=c985430d405edc23f6c93dddb91b4bab&oe=5EBE33CF",
+    "geo1": [
+      {
+        "geoDescription": "San José",
+        "cases": "313"
+      },
+      {
+        "geoDescription": "Alajuela",
+        "cases": "165"
+      },
+      {
+        "geoDescription": "Heredia",
+        "cases": "60"
+      },
+      {
+        "geoDescription": "Cartago",
+        "cases": "43"
+      },
+      {
+        "geoDescription": "Puntarenas",
+        "cases": "26"
+      },
+      {
+        "geoDescription": "Guanacaste",
+        "cases": "13"
+      },
+      {
+        "geoDescription": "Limón",
+        "cases": "6"
+      }
+    ]
   }
 ]
